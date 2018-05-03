@@ -13,3 +13,5 @@ Pour plus d'infos, consulte la [FAQ](http://walkingdev.fr/#walkingdev/elm/blob/m
 * Langlois - Stéphane - stephane@scopyleft.fr
 * Pascal - Romain - keronos@protonmail.com
 * Cassaigne - Anthony
+* Ragot - Lucie - lucie.ragot@gmail.com
+
